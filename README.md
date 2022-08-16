@@ -1,8 +1,8 @@
 <h1>Sistema de cadastros</h1>
 
 <p>Projeto em desenvovlimento</p>
-<p>Para rodar primeiro:</p>
+<p>Para rodar digite:</p>
 
 ``
-instal react
+app.js na máquina
 ``
